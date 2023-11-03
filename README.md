@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+This GitHub page aims to gather the work I accomplished throughout my studies and personal projects.
+
+I mostly work on applied mathematics and industrial engineering optimization.
+
+I am currently working on
+- Web Scraping
+- Meta-heuristics for non-linear optimization problem solving
+
+I am also learning about NLP and automated classification.
+
+Feel free to reach to me (see links on my Profile) !
 <!--
 **Lyreck/Lyreck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
