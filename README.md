@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This GitHub page aims to gather the work I accomplished throughout my studies and personal projects.
+This GitHub page aims to gather the work I accomplish throughout my studies and personal projects.
 
 I mostly work on applied mathematics and industrial engineering optimization.
 
