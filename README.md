@@ -7,6 +7,9 @@ I mostly work on applied mathematics and industrial engineering optimization.
 I am currently working on
 - Web Scraping
 - Meta-heuristics for non-linear optimization problem solving
+- Machine Learning
+- Data cleaning
+- graph optimization
 
 I am also learning about NLP and automated classification.
 
