@@ -4,12 +4,15 @@ This GitHub page aims to gather the work I accomplish throughout my studies and 
 
 I mostly work on applied mathematics and industrial engineering optimization.
 
-I am currently working on
+I am currently working / have worked on
 - Web Scraping
 - Meta-heuristics for non-linear optimization problem solving
 - Machine Learning
 - Data cleaning
 - graph optimization
+- computational sociology
+- graph neural networks
+- predictive models
 
 I am also learning about NLP and automated classification.
 
