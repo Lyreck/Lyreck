@@ -7,14 +7,13 @@ I mostly work on applied mathematics and industrial engineering optimization.
 I am currently working / have worked on
 - Web Scraping
 - Meta-heuristics for non-linear optimization problem solving
-- Machine Learning
-- Data cleaning
+- Machine Learning (NLP, GNN, Sentiment Analysis)
+- Data Analysis
 - graph optimization
 - computational sociology
-- graph neural networks
-- predictive models
+- predictive statistical models
 
-I am also learning about NLP and automated classification.
+I am also learning/using models like xgboost, and I like experimenting on Hugging Face models and their finetuning interface AutoTrain.
 
 Feel free to reach to me (see links on my Profile) !
 <!--
