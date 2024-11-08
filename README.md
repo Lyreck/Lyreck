@@ -2,7 +2,7 @@
 
 This GitHub page aims to gather the work I accomplish throughout my studies and personal projects.
 
-I mostly work on applied mathematics and industrial engineering optimization.
+I mostly (but not only) work on applied mathematics, industrial engineering optimization, and computational social sciences.
 
 I am currently working / have worked on
 - Web Scraping
