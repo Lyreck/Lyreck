@@ -15,7 +15,7 @@ I am currently working / have worked on
 
 I am also learning/using models like xgboost, and I like experimenting on Hugging Face models and their finetuning interface AutoTrain.
 
-Feel free to reach to me (see links on my Profile) !
+Feel free to reach out to me (see links on my Profile) !
 <!--
 **Lyreck/Lyreck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
