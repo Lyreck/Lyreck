@@ -1,19 +1,20 @@
-### Hi there 👋
+### Welcome !
 
 This GitHub page aims to gather the work I accomplish throughout my studies and personal projects.
 
 I mostly (but not only) work on applied mathematics, industrial engineering optimization, and computational social sciences.
 
 I am currently working / have worked on
-- Web Scraping
 - Meta-heuristics for non-linear optimization problem solving
 - Machine Learning (NLP, GNN, Sentiment Analysis)
 - Data Analysis
+- computer vision
 - graph optimization
+- Web Scraping
 - computational sociology
 - predictive statistical models
 
-I am also learning/using models like xgboost, and I like experimenting on Hugging Face models and their finetuning interface AutoTrain.
+I am also learning/using models like xgboost, and I like experimenting on Hugging Face models and their finetuning interface AutoTrain. I am interested in the intersection of social sciences, mathematics and technology.
 
 Feel free to reach out to me (see links on my Profile) !
 <!--
