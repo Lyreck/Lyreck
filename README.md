@@ -14,7 +14,7 @@ I am currently working / have worked on
 - computational sociology
 - predictive statistical models
 
-I also like experimenting on Hugging Face models and their finetuning interface AutoTrain. I am interested in the intersection of social sciences, mathematics and technology.
+I also like experimenting on Hugging Face models and their finetuning interface AutoTrain. I am interested in the intersection of public policy, mathematics and technology.
 
 Feel free to reach out to me (see links on my Profile) !
 <!--
