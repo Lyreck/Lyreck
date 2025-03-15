@@ -16,7 +16,7 @@ I am currently working / have worked on
 
 I also like experimenting on Hugging Face models and their finetuning interface AutoTrain. I am interested in the intersection of ethics, public policy, mathematics and technology.
 
-Feel free to reach out to me (see links on my Profile) !
+Feel free to reach out (see links on my Profile) !
 <!--
 **Lyreck/Lyreck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
