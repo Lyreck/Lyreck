@@ -13,6 +13,7 @@ I am currently working / have worked on
 - Web Scraping
 - computational sociology
 - predictive statistical models
+- algorithmic fairness, biases in algorithms
 
 I also like experimenting on Hugging Face models and their finetuning interface AutoTrain. I am interested in the intersection of ethics, public policy, mathematics and technology.
 
