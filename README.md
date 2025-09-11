@@ -2,7 +2,7 @@
 
 This GitHub page aims to gather the work I accomplish throughout my studies and personal projects.
 
-I mostly (but not only) work on applied mathematics, industrial engineering optimization, and computational social sciences.
+I mostly (but not only) work on applied mathematics, industrial engineering optimization, and computational social sciences. I am interested in the intersection of ethics, public policy, mathematics and technology.
 
 I am currently working / have worked on
 - Meta-heuristics for non-linear optimization problem solving
@@ -15,7 +15,7 @@ I am currently working / have worked on
 - predictive statistical models
 - algorithmic fairness, biases in algorithms
 
-I also like experimenting on Hugging Face models and their finetuning interface AutoTrain. I am interested in the intersection of ethics, public policy, mathematics and technology.
+I also like reading and experimenting a lot in fields related to AI safety, governance and alignment. I also love music (from classical to electro).
 
 Feel free to reach out (see links on my Profile) !
 <!--
